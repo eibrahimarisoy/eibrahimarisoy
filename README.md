@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Django Rest Framework and AWS services.
-- 🌱 I’m currently learning Golang.
+- 🔭 I’m currently working on Django and Golang.
 - 💬 Ask me about **Python, Django, Rest Framework, Golang, AWS**.
 - 📫 How to reach me: **eibrahimarisoy@gmail.com**
 
