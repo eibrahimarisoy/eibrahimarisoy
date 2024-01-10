@@ -1,9 +1,17 @@
-### Hi there 👋
+# Hello there! 👋
 
-- 🔭 I’m currently working on Django and Golang.
-- 💬 Ask me about **Python, Django, Rest Framework, Golang, AWS**.
-- 📫 How to reach me: **eibrahimarisoy@gmail.com**
+🚀 Currently navigating the realms of DevOps and SRE (Site Reliability Engineering), sculpting excellence with Kubernetes (K8s) and unleashing the power of AWS services.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/emre-ibrahim-ar%C4%B1soy/ target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="emreibrahimarisoy" height="30" width="30" /></a>
+💬 Dive into discussions with me about the orchestration ballet of DevOps, the reliability symphony of SRE, the choreography of Kubernetes, the AWS saga, and the poetic dance of Python, Django, and Golang.
+
+📫 Reach out to me at: [eibrahimarisoy@gmail.com](mailto:eibrahimarisoy@gmail.com)
+
+### Tech Ensemble:
+- 🌐 K8s (Kubernetes)
+- ☁️ AWS (Amazon Web Services)
+- 🐍 Python, Django
+- 🚀 Golang
+
+### Connect with the Maestro:
+- GitHub: [emreibrahimarisoy](https://github.com/eibrahimarisoy)
+- LinkedIn: [emreibrahimarisoy](https://www.linkedin.com/in/emre-ibrahim-ar%C4%B1soy/)
